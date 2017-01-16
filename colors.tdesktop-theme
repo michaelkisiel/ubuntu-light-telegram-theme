@@ -1,9 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          UbuntuLight theme v1.0 for Telegram Desktop.                          //
+//                          UbuntuLight theme v1.0 for Telegram Desktop.                        //
 //                                                                                              //
 //                                                                                              //
-//        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme              //
+//        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme             //
 //                                                                                              //
 //        Published under MIT Licence. Feel free to modify this file whatever you want.         //
 //        Mentioning the original repo (see above) isn't mandatory, but highly appreciated!     //
@@ -99,15 +99,15 @@ scrollBgOver: #0000002c;                        // Mouse over scrollbar (chats l
 smallCloseIconFg: COLOR_GGRAY;
 smallCloseIconFgOver: COLOR_RED;
 
-radialFg: COLOR_WHITE;
-radialBg: #00000056;
+radialFg: COLOR_GRAY;
+radialBg: COLOR_IRON;
 
 placeholderFg: COLOR_GGRAY;                     // Inactive input box placeholder text
 placeholderFgActive: COLOR_GGRAY;               // Active input box placeholder text
 inputBorderFg: COLOR_LGRAY;
 filterInputBorderFg: COLOR_APRICOT;             // Search field border
-filterInputInactiveBg: COLOR_LGRAY;             // Search field background color
-checkboxFg: #b3b3b3;
+filterInputInactiveBg: COLOR_IRON;             // Search field background color
+checkboxFg: COLOR_GGRAY;
 
 sliderBgInactive: COLOR_IRON;                   // Inactive media slider button in settings or gif add panel
 sliderBgActive: COLOR_BLUE;                     // Active media slider button in settings or gif add panel
