@@ -1,5 +1,5 @@
 # Ubuntu Light Theme for Telegram Desktop
-#### Version 1.1
+#### Version 1.2
 A telegram desktop theme in stylish ubuntu design pattern.
 
 ### Install
@@ -15,7 +15,8 @@ Thanks [MasterGroosha](https://github.com/MasterGroosha/telegram-soliddark-theme
 ### Contact
 Just send me [@droopymccool](https://t.me/droopymccool) a message in telegram. :wink:
 
-### Screenshot
+### Screenshots
+![](UbuntuLightScreenshot.png)
 ![](ubuntu-light-telegram-theme.png)
 
 Made.with.:heart:
