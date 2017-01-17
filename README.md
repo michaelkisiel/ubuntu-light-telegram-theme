@@ -3,7 +3,7 @@
 A telegram desktop theme in stylish ubuntu design pattern.
 
 ### Install
-1. Clone the git repisitory github.com/michaelkisiel/ubuntu-light-telegram-theme or download the file [UbuntuLight.tdesktop-theme](https://github.com/michaelkisiel/ubuntu-light-telegram-theme/blob/master/UbuntuLight.tdesktop-theme)
+1. Clone the git repisitory github.com/michaelkisiel/ubuntu-light-telegram-theme or download the file [UbuntuLight1-2.tdesktop-theme](https://github.com/michaelkisiel/ubuntu-light-telegram-theme/blob/master/UbuntuLight1-2.tdesktop-theme)
 2. Paste the file into any chat of your telegram desktop client
 3. You will be asked to apply the theme showing you a preview before
 
