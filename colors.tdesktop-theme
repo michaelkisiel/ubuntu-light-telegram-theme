@@ -388,9 +388,9 @@ mediaOutFgSelected: COLOR_WHITE;
 
 youtubePlayIconBg: #e83131c8;
 youtubePlayIconFg: COLOR_WHITE;
-videoPlayIconBg: #0000007f;
+videoPlayIconBg: COLOR_GRAY;
 videoPlayIconFg: COLOR_WHITE;
-toastBg: #000000b2;
+toastBg: #151515ef;
 toastFg: COLOR_WHITE;
 
 reportSpamBg: COLOR_LGRAY;
