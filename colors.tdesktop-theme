@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          UbuntuLight theme v1.0 for Telegram Desktop.                        //
+//                          UbuntuLight theme v1.3 for Telegram Desktop.                        //
 //                                                                                              //
 //                                                                                              //
 //        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme             //
@@ -100,8 +100,8 @@ scrollBgOver: #0000002c;                        // Mouse over scrollbar (chats l
 smallCloseIconFg: COLOR_GGRAY;
 smallCloseIconFgOver: COLOR_RED;
 
-radialFg: COLOR_GRAY;
-radialBg: COLOR_IRON;
+radialFg: COLOR_WHITE;
+radialBg: COLOR_GRAY;
 
 placeholderFg: COLOR_GRAY;                     // Inactive input box placeholder text
 placeholderFgActive: COLOR_GRAY;               // Active input box placeholder text
@@ -377,9 +377,9 @@ msgWaveformOutActiveSelected: COLOR_DARK;
 msgWaveformOutInactive: COLOR_IRON;
 msgWaveformOutInactiveSelected: COLOR_LAPRICOT;
 
-msgBotKbOverBgAdd: COLOR_GGRAY;                    // Inline button (hover)
+msgBotKbOverBgAdd: COLOR_DARK;                    // Inline button (hover)
 msgBotKbIconFg: COLOR_WHITE;                     // Inline button icon color (URL Buttons, for example)
-msgBotKbRippleBg: COLOR_DARK;                    // Inline button (press & hold)
+msgBotKbRippleBg: COLOR_APRICOT;                    // Inline button (press & hold)
 
 mediaInFg: COLOR_GGRAY;
 mediaInFgSelected: COLOR_WHITE;
@@ -420,6 +420,9 @@ overviewCheckFg: COLOR_LGRAY;
 overviewCheckFgActive: COLOR_WHITE;
 overviewPhotoSelectOverlay: #00000077;
 profileStatusFgOver: COLOR_GGRAY;
+profileVerifiedCheckBg: windowBgActive;
+profileVerifiedCheckFg: windowFgActive;
+profileAdminStartFg: windowBgActive;
 
 // notification settings
 notificationsBoxMonitorFg: COLOR_GRAY;
