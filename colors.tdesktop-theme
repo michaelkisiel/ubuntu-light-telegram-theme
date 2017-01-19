@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          UbuntuLight theme v1.3 for Telegram Desktop.                        //
+//                          UbuntuLight theme v1.32 for Telegram Desktop.                        //
 //                                                                                              //
 //                                                                                              //
 //        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme             //
@@ -41,7 +41,7 @@ windowFgOver: COLOR_DARK;                       // Main text color on hover
 windowSubTextFg: COLOR_DARK;                    // Chats list message preview text
 windowSubTextFgOver: COLOR_GRAY;                // Mouse over chats list message preview text
 windowBoldFg: COLOR_DARK;                       // Bold font (titles in Settings, Left menu options)
-windowBoldFgOver: COLOR_DARK;                 // Mouse over chats list chat name text (+ Left menu options on hover)
+windowBoldFgOver: COLOR_DARK;                   // Mouse over chats list chat name text (+ Left menu options on hover)
 windowBgActive: COLOR_GREEN_LIGHT;              // Active button background (+ checkboxes background)
 windowFgActive: COLOR_WHITE;                     // Active selected chats list text / button text + checkboxes' "ticks" color
 windowActiveTextFg: COLOR_ORANGE;               // Online status, links, recording cancel, etc
@@ -397,6 +397,12 @@ reportSpamBg: COLOR_LGRAY;
 reportSpamFg: COLOR_GRAY;
 
 historyToDownShadow: COLOR_DARK;
+historyToDownBg: windowBg;
+historyToDownBgOver: windowBgOver;
+historyToDownBgRipple: windowBgRipple;
+historyToDownFg: menuIconFg;
+historyToDownFgOver: menuIconFgOver;
+
 historyComposeAreaBg: COLOR_LGRAY;
 historyComposeAreaFg: COLOR_DARK;               // Text color in "Type your message" field
 historyComposeAreaFgService: COLOR_WHITE;
