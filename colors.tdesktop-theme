@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          UbuntuLight theme v1.32 for Telegram Desktop.                        //
+//                          UbuntuLIGHT theme v1.33 for Telegram Desktop.                        //
 //                                                                                              //
 //                                                                                              //
 //        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme             //
@@ -25,6 +25,8 @@ COLOR_APRICOT: #ee8d66;
 COLOR_LAPRICOT: #ffe9d4;
 COLOR_APRICOT_ALPHA: #f1d1c4;
 COLOR_ORANGE: #ef7645;
+COLOR_FINN: #5e2750;
+COLOR_PLUM: #77216f;
 COLOR_BLUE: #32a3e2;
 COLOR_RED: #FF6347;
 COLOR_GREEN: #00a32b;
@@ -410,9 +412,9 @@ historyComposeIconFg: COLOR_GRAY;
 historyComposeIconFgOver: COLOR_APRICOT;
 historySendIconFg: COLOR_APRICOT;
 historySendIconFgOver: COLOR_BLUE;
-historyPinnedBg: COLOR_LGRAY;
+historyPinnedBg: COLOR_IRON;
 historyReplyBg: COLOR_LGRAY;
-historyReplyIconFg: COLOR_APRICOT_ALPHA;
+historyReplyIconFg: COLOR_BLUE;
 historyReplyCancelFg: COLOR_GRAY;
 historyReplyCancelFgOver: COLOR_RED;
 

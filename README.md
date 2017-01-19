@@ -1,5 +1,5 @@
 # Ubuntu Light Theme for Telegram Desktop
-#### Version 1.32
+#### Version 1.33
 A telegram desktop theme in stylish ubuntu design pattern.
 
 ### Install
