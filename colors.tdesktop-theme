@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
-//                          UbuntuLIGHT theme v1.33 for Telegram Desktop.                        //
+//                          UbuntuLIGHT theme v1.34 for Telegram Desktop.                        //
 //                                                                                              //
 //                                                                                              //
 //        Source code: https://github.com/michaelkisiel/ubuntu-light-telegram-theme             //
@@ -58,20 +58,20 @@ imageBg: COLOR_DARK;
 imageBgTransparent: COLOR_WHITE;
 
 //widgets
-activeButtonBg: COLOR_IRON;                     // Currently selected button background
+activeButtonBg: COLOR_GRAY;                     // Currently selected button background
 activeButtonBgOver: COLOR_GGRAY;                // Mouse over currently selected button background
-activeButtonBgRipple: COLOR_DARK;        // Primary button background color (and active chat) - Press & hold
-activeButtonFg: COLOR_DARK;                     // Currently selected button text
+activeButtonBgRipple: COLOR_APRICOT_ALPHA;      // Primary button background color (and active chat) - Press & hold
+activeButtonFg: COLOR_WHITE;                     // Currently selected button text
 activeButtonFgOver: COLOR_WHITE;                 // Mouse over currently selected button text
 activeButtonSecondaryFg: COLOR_WHITE;           // Counter color on primary button
 activeButtonSecondaryFgOver: COLOR_WHITE;       // Counter color on primary button (hover)
 activeLineFg: COLOR_BLUE;                       // Active input field line color (normal)
-activeLineFgError: COLOR_RED;                     // Active input field line color (error)
+activeLineFgError: COLOR_RED;                    // Active input field line color (error)
 
 lightButtonBg: COLOR_IRON;                      // Secondary button background color (default)
-lightButtonBgOver: COLOR_GGRAY;                 // Secondary button background color (hover)
-lightButtonBgRipple: COLOR_DARK;         // Secondary button background color (press & hold)
-lightButtonFg: COLOR_DARK;                     // Secondary button text color
+lightButtonBgOver: COLOR_APRICOT;                 // Secondary button background color (hover)
+lightButtonBgRipple: COLOR_APRICOT_ALPHA;        // Secondary button background color (press & hold)
+lightButtonFg: COLOR_GGRAY;                     // Secondary button text color
 lightButtonFgOver: COLOR_WHITE;
 
 attentionButtonFg: #d84343;
@@ -225,13 +225,13 @@ dialogsDateFgActive: COLOR_WHITE;
 dialogsTextFgActive: COLOR_WHITE;
 dialogsTextFgServiceActive: COLOR_WHITE;
 dialogsDraftFgActive: COLOR_LAPRICOT;
-dialogsVerifiedIconBgActive: dialogsTextFgActive;
-dialogsVerifiedIconFgActive: dialogsBgActive;
-dialogsSendingIconFgActive: COLOR_WHITE;
-dialogsSentIconFgActive: dialogsTextFgActive;
-dialogsUnreadBgActive: dialogsTextFgActive;
-dialogsUnreadBgMutedActive: dialogsDraftFgActive;
-dialogsUnreadFgActive: dialogsBgActive;
+dialogsVerifiedIconBgActive: COLOR_LAPRICOT;
+dialogsVerifiedIconFgActive: COLOR_APRICOT;
+dialogsSendingIconFgActive: COLOR_LAPRICOT;
+dialogsSentIconFgActive: COLOR_LAPRICOT;
+dialogsUnreadBgActive: COLOR_LAPRICOT;
+dialogsUnreadBgMutedActive: COLOR_LAPRICOT;
+dialogsUnreadFgActive: COLOR_APRICOT;
 
 dialogsForwardBg: COLOR_APRICOT_ALPHA;
 dialogsForwardFg: COLOR_APRICOT_ALPHA;
@@ -265,7 +265,7 @@ historySendingInvertedIconFg: COLOR_WHITE;
 
 historySystemBg: COLOR_BLUE;
 historySystemBgSelected: COLOR_APRICOT;
-historySystemFg: COLOR_WHITE;
+historySystemFg: COLOR_GGRAY;
 
 historyUnreadBarBg: COLOR_APRICOT;              // Unread messages bar color
 historyUnreadBarBorder: COLOR_DARK;
@@ -398,7 +398,7 @@ toastFg: COLOR_WHITE;
 reportSpamBg: COLOR_LGRAY;
 reportSpamFg: COLOR_GRAY;
 
-historyToDownShadow: COLOR_DARK;
+historyToDownShadow: COLOR_DARK;                 //history scroll button
 historyToDownBg: windowBg;
 historyToDownBgOver: windowBgOver;
 historyToDownBgRipple: windowBgRipple;
@@ -407,7 +407,7 @@ historyToDownFgOver: menuIconFgOver;
 
 historyComposeAreaBg: COLOR_LGRAY;
 historyComposeAreaFg: COLOR_DARK;               // Text color in "Type your message" field
-historyComposeAreaFgService: COLOR_WHITE;
+historyComposeAreaFgService: COLOR_GGRAY;       // Text color in replied field when "media" is involved
 historyComposeIconFg: COLOR_GRAY;
 historyComposeIconFgOver: COLOR_APRICOT;
 historySendIconFg: COLOR_APRICOT;
