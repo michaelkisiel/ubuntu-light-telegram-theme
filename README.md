@@ -12,9 +12,6 @@ But here's also an official Telegram Support guide on how to edit and install Te
 ### Credits
 Thanks [MasterGroosha](https://github.com/MasterGroosha/telegram-soliddark-theme) for his original source code. :thumbsup:
 
-### Contact
-Just send me [@droopyMcCool](https://t.me/droopymccool) a message in telegram. :wink:
-
 ### Screenshots
 ![](UbuntuLightScreenshot.png)
 ![](ubuntu-light-telegram-theme.png)
